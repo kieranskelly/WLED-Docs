@@ -46,3 +46,5 @@ It could be formatted any of the three ways demonstrated above.
 {"map":[0, 1, 2, 3, 4, 9, 8, 7, 6, 5, 10, 11, 12, 13, 14,
 19, 18, 17, 16, 15, 20, 21, 22, 23, 24, 29, 28, 27, 26, 25]}
 ```
+### Limitations
+Due to resource constrains, the maximum number of pixels that can be remapped from a single controller is ~1700.
